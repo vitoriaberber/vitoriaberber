@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>Olá! Eu sou Vitória Berber</h1>
 
-<!--
-**vitoriaberber/vitoriaberber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou em busca de oportunidades dentro do mercado de trabalho, como estagiária de tecnologia da informação ou na área de desenvolvimento.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul
+- 📚 Estudando desenvolvimento web
+- 🔠 B2 nível de inglês intermediário
+ 
+<br>
 
-Here are some ideas to get you started:
+<div display="inline">
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aqui você encontrará projetos focados em:
+- Html
+- Css
+- JavaScript
+
+## Contato:
+<div>
+  <a href="https://www.linkedin.com/in/vitória-berber">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
