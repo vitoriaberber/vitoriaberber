@@ -2,7 +2,7 @@
 
 Atualmente, estou em busca de oportunidades dentro do mercado de trabalho, como estagiária de tecnologia da informação ou na área de desenvolvimento.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul
-- 📚 Estudando React, Next.js e PostgreSQL
+- 📚 Estudando Next.js
 - 🔠 B2 nível de inglês intermediário
  
 <br>
